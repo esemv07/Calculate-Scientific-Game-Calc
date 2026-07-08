@@ -1,5 +1,24 @@
 # Calculate-Scientific-Game-Calc
 
+
+## Project Progress Checklist
+- [ ] Electronic Design
+  - [x] Schematic
+  - [ ] PCB
+    - [x] Wiring
+    - [ ] Mounting Holes
+- [ ] Case Design
+  - [ ] 3D Model
+  - [ ] Printed Case
+- [ ] Firmware
+  - [x] Button Scanning
+  - [x] Button Presses
+  - [ ] Evaluation
+    - [x] Separating order of operations
+    - [ ] Evaluating each operation in correct order
+  - [x] Screen Display - to be tuned further once actual parts have arrived
+  - [ ] Games - to be made with actual parts
+
 ## Images
 
 ### Schematic
