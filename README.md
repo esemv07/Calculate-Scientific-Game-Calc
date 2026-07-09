@@ -14,7 +14,8 @@
   - [x] Button Scanning
   - [x] Button Presses
   - [ ] Evaluation
-    - [x] Separating order of operations
+    - [x] Separating order of operations to tokens
+    - [x] Ordering tokens as RPN
     - [ ] Evaluating each operation in correct order
   - [x] Screen Display - to be tuned further once actual parts have arrived
   - [ ] Games - to be made with actual parts
