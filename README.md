@@ -114,4 +114,4 @@ See [BOM.md](https://github.com/esemv07/Calculate-Scientific-Game-Calc/blob/main
 | 1N4148 Diode | $1.00 | 100pcs | 1 | $1.00 | [https://www.aliexpress.com/item/1005008577093447.html](https://www.aliexpress.com/item/1005008577093447.html) |
 | 4.7kΩ Resistor VO CR1/4W-4K7±5%-OT26 | $0.53 | 100pcs | 1 | $0.53 | [https://www.lcsc.com/product-detail/C2896831.html](https://www.lcsc.com/product-detail/C2896831.html) |
 
-### Estimated Total Price ($USD) = $23.71 + PCB Cost
+### Estimated Total Price ($USD) = $23.71 + PCB Cost ($12.10) = $35.81
