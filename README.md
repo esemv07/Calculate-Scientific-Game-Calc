@@ -2,11 +2,11 @@
 
 
 ## Project Progress Checklist
-- [ ] Electronic Design
+- [x] Electronic Design
   - [x] Schematic
-  - [ ] PCB
+  - [x] PCB
     - [x] Wiring
-    - [ ] Mounting Holes
+    - [x] Mounting Holes
 - [ ] Case Design
   - [ ] 3D Model
   - [ ] Printed Case
