@@ -8,8 +8,12 @@
     - [x] Wiring
     - [x] Mounting Holes
 - [ ] Case Design
-  - [ ] 3D Model
-  - [ ] Printed Case
+  - [x] Top Lid
+  - [x] Mounting
+  - [x] Bottom Case
+  - [x] Decoration
+  - [x] Buttons
+  - [ ] Button Labels
 - [ ] Firmware
   - [x] Button Scanning
   - [x] Button Presses
