@@ -29,6 +29,75 @@
 <img width="413" height="622" alt="Screenshot 2026-07-08 at 1 00 05 PM" src="https://github.com/user-attachments/assets/0fab9c5a-99ee-43a8-b146-782d8d761b75" />
 
 
+## Firmware
+
+### Overview
+This is also in the top of the firmware file - it was just the flow of my thoughts and planning so is not perfectly polished
+```
+-- PROJECT FLOW --
+
+setup:
+- setup IO expander
+- setup screen
+- display initial screen
+
+loop: 
+- check for button press
+- draw display - could probably leave this out of loop because it reloads on every input
+
+check for button press:
+- check whether shifted
+- return row + column with shifted/normal key
+
+HANDLE KEY PRESS
+Types of key presses:
+- Input keys
+  - number (0-9)
+  - in-built operation (+ - / * ^)
+  - special operation (! sqrt otherroot x10^ %)
+  - trig function (sin cos tan asin acos atan)
+  - other function (log ln Abs nPr nCr)
+  - constants (Pi Euler Ans)
+  - other inputs ('(' ')' ',' '.')
+- Control keys
+  - other (Mode Game Shift)
+  - deletion (AC DEL)
+  - equals (= S<=>D Deg/Min/Sec)
+  - direction (UP DOWN LEFT RIGHT)
+
+Flow:
+if input key : append to expression
+
+if control key : check - 'can control be executed before evaluation'
+  if yes : execute
+  if no : continue
+
+
+EVALUATION
+- separate expression into order of operations
+  1. brackets
+  2. functions
+  3. exponents
+  4. operations (* /)
+  5. operations (+ -)
+- evaluate in separated parts
+- return ans
+- store ans as Ans
+- draw display
+
+Flow:
+- convert expression to tokens
+- turn into RPN
+- evaluate RPN
+- store Ans
+- return ans to display
+```
+
+### Image
+<img width="1440" height="827" alt="Screenshot 2026-07-10 at 6 27 17 PM" src="https://github.com/user-attachments/assets/f29ea4cc-cece-4484-aebb-00d59bd3d92f" />
+
+
+
 ## BOM
 
 See [BOM.md](https://github.com/esemv07/Calculate-Scientific-Game-Calc/blob/main/BOM.md)
