@@ -7,13 +7,13 @@
   - [x] PCB
     - [x] Wiring
     - [x] Mounting Holes
-- [ ] Case Design
+- [x] Case Design
   - [x] Top Lid
   - [x] Mounting
   - [x] Bottom Case
   - [x] Decoration
   - [x] Buttons
-  - [ ] Button Labels
+  - [x] Button Labels
 - [ ] Firmware
   - [x] Button Scanning
   - [x] Button Presses
