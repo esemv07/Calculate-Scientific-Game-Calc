@@ -35,6 +35,8 @@
 ### Case
 <img width="817" height="554" alt="Screenshot 2026-07-11 at 10 00 24 AM" src="https://github.com/user-attachments/assets/9750ca39-b7d5-411d-8ebe-b288d2969cd9" />
 <img width="825" height="603" alt="Screenshot 2026-07-11 at 10 00 58 AM" src="https://github.com/user-attachments/assets/76956ce2-730b-4ddd-bf18-14d52024f660" />
+<img width="664" height="570" alt="Screenshot 2026-07-11 at 5 45 59 PM" src="https://github.com/user-attachments/assets/1610f272-3e93-4ce8-a0b2-cbb760a2904d" />
+
 
 
 ## Firmware
