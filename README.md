@@ -100,6 +100,7 @@ Flow:
 - store Ans
 - return ans to display
 ```
+Interesting Wikipedia page about [calculator input methods](https://en.wikipedia.org/wiki/Calculator_input_methods) which I used to learn about RPN methods.
 
 ### Image
 <img width="1440" height="827" alt="Screenshot 2026-07-10 at 6 27 17 PM" src="https://github.com/user-attachments/assets/f29ea4cc-cece-4484-aebb-00d59bd3d92f" />
