@@ -33,6 +33,9 @@
 > [!NOTE]
 > Diodes have been move to bottom layer to allow room for buttons in the case
 <img width="413" height="622" alt="Screenshot 2026-07-08 at 1 00 05 PM" src="https://github.com/user-attachments/assets/0fab9c5a-99ee-43a8-b146-782d8d761b75" />
+<img width="752" height="711" alt="Screenshot 2026-07-13 at 4 31 10 PM" src="https://github.com/user-attachments/assets/2428fcf5-8a1a-461c-af2e-5954b34ba90d" />
+<img width="604" height="637" alt="Screenshot 2026-07-13 at 4 31 30 PM" src="https://github.com/user-attachments/assets/75387304-8963-4e65-b6ad-786d9a64ee41" />
+
 
 ### Case
 <img width="817" height="554" alt="Screenshot 2026-07-11 at 10 00 24 AM" src="https://github.com/user-attachments/assets/9750ca39-b7d5-411d-8ebe-b288d2969cd9" />
