@@ -1,7 +1,7 @@
 | Item | Price per Unit | Unit Size | No. of Units | Total Price | Link | Ordered | Received |
 |------|----------------|-----------|--------------|-------------|------|---------|----------|
 | Tactile Buttons (SHOU HAN TS4555CJ 250gf 009) | $0.43 | 50pcs | 1 | $0.43 | [https://www.lcsc.com/product-detail/C5359335.html](https://www.lcsc.com/product-detail/C5359335.html) | <ul><li>- [x] </li> | <ul><li>- [ ] </li> |
-| Arduino Pro Mini 3.3v 8MHz | $13.51 | 1pcs | 1 | $13.51 | [https://core-electronics.com.au/arduino-pro-mini-328-3-3v-8mhz.html](https://core-electronics.com.au/arduino-pro-mini-328-3-3v-8mhz.html) | <ul><li>- [x] </li> | <ul><li>- [ ] </li> |
+| Arduino Pro Mini 3.3v 8MHz | $13.51 | 1pcs | 1 | $13.51 | [https://core-electronics.com.au/arduino-pro-mini-328-3-3v-8mhz.html](https://core-electronics.com.au/arduino-pro-mini-328-3-3v-8mhz.html) | <ul><li>- [x] </li> | <ul><li>- [x] </li> |
 | 0.96" IPS LCD Display Module 80X160 | $3.25 | 1pcs | 1 | $3.25 | [https://www.aliexpress.com/item/1005001617019927.html](https://www.aliexpress.com/item/1005001617019927.html) | <ul><li>- [x] </li> | <ul><li>- [ ] </li> |
 | MT3608 | $1.00 | 1pcs | 1 | $1.00 | [https://www.aliexpress.com/item/1005010575920726.html](https://www.aliexpress.com/item/1005010575920726.html) | <ul><li>- [x] </li> | <ul><li>- [ ] </li> |
 | 2 AAA Battery Holder | $1.00 | 1pcs | 1 | $1.00 | [https://www.aliexpress.com/item/1005012118979890.html](https://www.aliexpress.com/item/1005012118979890.html) | <ul><li>- [x] </li> | <ul><li>- [ ] </li> |
